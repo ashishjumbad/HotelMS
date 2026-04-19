@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node server.js:*)",
+      "Bash(npm run build:*)",
+      "Bash(node --check:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(cd:*)",
+      "Bash(cat:*)",
+      "Bash(del \"C:\\\\Users\\\\kaize\\\\Downloads\\\\internship records\\\\ashish jumbad\\\\project files\\\\HotelMST\\\\frontend\\\\src\\\\tailwind.config.js\")"
+    ]
+  }
+}
