@@ -1,3 +1,5 @@
+import app from "../backend/app.js";
+
 export default function handler(req, res) {
-  res.status(200).send("Working 🚀");
+  return app(req, res);
 }
